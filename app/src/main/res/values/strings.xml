@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoadingDetail</string>
+    <string name="loading_more">向下拖拽，显示更多</string>
 </resources>
